@@ -11,4 +11,4 @@ O ebook aborda desde os conceitos básicos até técnicas avançadas de branchin
 Você pode clonar este repositório para obter a versão mais recente do ebook ou navegar pelos arquivos diretamente no GitHub.
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone [https://github.com/Penichezito/Ebook-Git-Branch]
