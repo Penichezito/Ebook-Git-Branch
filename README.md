@@ -1,5 +1,7 @@
 # Dominando o Git Branch: Crie Sua Própria Máquina do Tempo
 
+![](https://github.com/Penichezito/Ebook-Git-Branch/blob/main/assets/Capa%20-%20Ebook.png)
+
 Este repositório contém o ebook "Dominando o Git Branch: Crie Sua Própria Máquina do Tempo", que é um guia completo para entender e utilizar branches no Git, permitindo que você gerencie suas versões e colabore com eficiência em projetos de software.
 
 ## Sobre o Ebook
