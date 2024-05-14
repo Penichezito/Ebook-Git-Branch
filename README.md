@@ -7,6 +7,7 @@ Este repositório contém o ebook "Dominando o Git Branch: Crie Sua Própria Má
 ## Sobre o Ebook
 
 O ebook aborda desde os conceitos básicos até técnicas avançadas de branching e merge, com exemplos práticos e simples de código que facilitam o aprendizado e a aplicação no dia a dia do desenvolvimento de software.
+Utilizei o **Microsoft Copilot** para Pesquisa e o **Dall-e 3** integrado para a criação das imagens pixeladas. Também ultilizei o **Google Gemini** para pesquisa e informações sobre o tema. 
 
 ## Como Usar Este Repositório
 
